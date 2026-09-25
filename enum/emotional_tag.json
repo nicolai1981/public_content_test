@@ -1,0 +1,40 @@
+{
+  "emotional_tags": [
+    { "name": "DEEP_LONELINESS", "title": "Solidão profunda", "emotional_state": "AWFUL" },
+    { "name": "ANGUISH", "title": "Angústia", "emotional_state": "AWFUL" },
+    { "name": "HOPELESSNESS", "title": "Sem esperança", "emotional_state": "AWFUL" },
+    { "name": "ANGER", "title": "Raiva", "emotional_state": "AWFUL" },
+    { "name": "GUILT", "title": "Culpa", "emotional_state": "AWFUL" },
+    { "name": "EXTREME_FATIGUE", "title": "Cansaço extremo", "emotional_state": "AWFUL" },
+    { "name": "CRYING", "title": "Choro", "emotional_state": "AWFUL" },
+    { "name": "EMPTINESS", "title": "Vazio", "emotional_state": "AWFUL" },
+
+    { "name": "MISSING_SOMEONE", "title": "Saudade intensa", "emotional_state": "SAD" },
+    { "name": "SADNESS", "title": "Tristeza", "emotional_state": "SAD" },
+    { "name": "ANXIETY", "title": "Ansiedade", "emotional_state": "SAD" },
+    { "name": "CONFUSION", "title": "Confusão", "emotional_state": "SAD" },
+    { "name": "FEAR", "title": "Medo", "emotional_state": "SAD" },
+    { "name": "IRRITATION", "title": "Irritação", "emotional_state": "SAD" },
+    { "name": "EXHAUSTION", "title": "Exaustão", "emotional_state": "SAD" },
+
+    { "name": "UNCERTAINTY", "title": "Incerteza", "emotional_state": "MEH" },
+    { "name": "LONGING", "title": "Saudade", "emotional_state": "MEH" },
+    { "name": "WORRY", "title": "Preocupação", "emotional_state": "MEH" },
+    { "name": "SOME_PEACE", "title": "Alguma paz", "emotional_state": "MEH" },
+    { "name": "CURIOSITY", "title": "Curiosidade", "emotional_state": "MEH" },
+    { "name": "FAINT_HOPE", "title": "Esperança fraca", "emotional_state": "MEH" },
+
+    { "name": "LIGHTNESS", "title": "Leveza", "emotional_state": "OKAY" },
+    { "name": "HOPE", "title": "Esperança", "emotional_state": "OKAY" },
+    { "name": "CALM", "title": "Tranquilidade", "emotional_state": "OKAY" },
+    { "name": "WANT_TO_ACT", "title": "Quero agir", "emotional_state": "OKAY" },
+    { "name": "CONNECTION", "title": "Conexão", "emotional_state": "OKAY" },
+
+    { "name": "GRATITUDE", "title": "Gratidão", "emotional_state": "GREAT" },
+    { "name": "JOY", "title": "Alegria", "emotional_state": "GREAT" },
+    { "name": "ENERGY", "title": "Energia", "emotional_state": "GREAT" },
+    { "name": "LIGHTHEARTEDNESS", "title": "Leveza", "emotional_state": "GREAT" },
+    { "name": "PURPOSE", "title": "Propósito", "emotional_state": "GREAT" },
+    { "name": "PEACE", "title": "Paz", "emotional_state": "GREAT" }
+  ]
+}
