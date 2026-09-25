@@ -1,0 +1,34 @@
+{
+  "emotional_state": [
+    {
+      "name": "GREAT",
+      "level": 0,
+      "title": "Me sinto bem",
+      "description": "Bem - mais energia e disposição"
+    },
+    {
+      "name": "OKAY",
+      "level": 1,
+      "title": "Um pouco melhor",
+      "description": "Leve - consigo caminhar um pouco hoje"
+    },
+    {
+      "name": "MEH",
+      "level": 2,
+      "title": "Estou tentando",
+      "description": "Médio - nem bem, nem mal"
+    },
+    {
+      "name": "SAD",
+      "level": 3,
+      "title": "Me sinto sem forças",
+      "description": "Pesado - sobreviveno, mas está difícil"
+    },
+    {
+      "name": "AWFUL",
+      "level": 4,
+      "title": "Sem vontade de fazer nada",
+      "description": "Fundo - Mal consigo funcionar hoje"
+    }
+  ]
+}
