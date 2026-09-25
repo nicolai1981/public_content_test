@@ -1,0 +1,24 @@
+{
+  "day_intention": [
+    {
+      "name": "FEEL",
+      "title": "Sentir",
+      "description": "Só quero sentir o que está aqui, sem precisar mudar nada"
+    },
+    {
+      "name": "UNDERSTAND",
+      "title": "Entender",
+      "description": "Quero entender melhor o que estou passando"
+    },
+    {
+      "name": "ACT",
+      "title": "Agir",
+      "description": "Quero dar um passo pequeno hoje, mesmo que difícil"
+    },
+    {
+      "name": "FAITH",
+      "title": "Fé",
+      "description": "Preciso de algo que me conecte com minha fé"
+    }
+  ]
+}
