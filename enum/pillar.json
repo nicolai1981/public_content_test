@@ -1,0 +1,9 @@
+{
+  "pillar": [
+    { "name": "SPIRIT", "title": "Espírito" },
+    { "name": "MIND", "title": "Mente" },
+    { "name": "SOUL", "title": "Alma" },
+    { "name": "BODY", "title": "Corpo" },
+    { "name": "INTEGRATION", "title": "Integração" }
+  ]
+}
