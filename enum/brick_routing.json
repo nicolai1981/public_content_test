@@ -1,11 +1,28 @@
 {
   "routing": [
-    { "emotional_state": "AWFUL", "day_intention": "FEEL", "pillar": "SOUL", "brick_id": 50 },
-    { "emotional_state": "AWFUL", "day_intention": "FAITH", "pillar": "SPIRIT", "brick_id": 3 },
-    { "emotional_state": "AWFUL", "day_intention": "UNDERSTAND", "pillar": "MIND", "brick_id": 32 },
-    { "emotional_state": "AWFUL", "day_intention": "ACT", "pillar": "BODY", "brick_id": 73 },
-    { "emotional_state": "MEH", "day_intention": "FAITH", "pillar": "SPIRIT", "brick_id": 14 },
-    { "emotional_state": "GREAT", "day_intention": "ACT", "pillar": "BODY", "brick_id": 92 },
-    { "emotional_state": "GREAT", "day_intention": "FAITH", "pillar": "INTEGRATION", "brick_id": 99 }
+    { "emotional_state": "AWFUL", "day_intention": "FEEL", "pillar": "SOUL", "brick_id": 50, "alternative_pillars": ["SPIRIT", "BODY"] },
+    { "emotional_state": "AWFUL", "day_intention": "FAITH", "pillar": "SPIRIT", "brick_id": 3, "alternative_pillars": ["SOUL", "MIND"] },
+    { "emotional_state": "AWFUL", "day_intention": "UNDERSTAND", "pillar": "MIND", "brick_id": 32, "alternative_pillars": ["SOUL", "SPIRIT"] },
+    { "emotional_state": "AWFUL", "day_intention": "ACT", "pillar": "BODY", "brick_id": 73, "alternative_pillars": ["SOUL", "SPIRIT"] },
+
+    { "emotional_state": "SAD", "day_intention": "FEEL", "pillar": "SOUL", "brick_id": 50, "alternative_pillars": ["SPIRIT", "MIND"] },
+    { "emotional_state": "SAD", "day_intention": "FAITH", "pillar": "SPIRIT", "brick_id": 3, "alternative_pillars": ["SOUL", "MIND"] },
+    { "emotional_state": "SAD", "day_intention": "UNDERSTAND", "pillar": "MIND", "brick_id": 37, "alternative_pillars": ["SOUL", "SPIRIT"] },
+    { "emotional_state": "SAD", "day_intention": "ACT", "pillar": "BODY", "brick_id": 73, "alternative_pillars": ["SOUL", "MIND"] },
+
+    { "emotional_state": "MEH", "day_intention": "FEEL", "pillar": "SOUL", "brick_id": 62, "alternative_pillars": ["MIND", "SPIRIT"] },
+    { "emotional_state": "MEH", "day_intention": "FAITH", "pillar": "SPIRIT", "brick_id": 14, "alternative_pillars": ["SOUL", "INTEGRATION"] },
+    { "emotional_state": "MEH", "day_intention": "UNDERSTAND", "pillar": "MIND", "brick_id": 44, "alternative_pillars": ["SPIRIT", "INTEGRATION"] },
+    { "emotional_state": "MEH", "day_intention": "ACT", "pillar": "BODY", "brick_id": 77, "alternative_pillars": ["MIND", "INTEGRATION"] },
+
+    { "emotional_state": "OKAY", "day_intention": "FEEL", "pillar": "INTEGRATION", "brick_id": 97, "alternative_pillars": ["SOUL", "SPIRIT"] },
+    { "emotional_state": "OKAY", "day_intention": "FAITH", "pillar": "SPIRIT", "brick_id": 23, "alternative_pillars": ["INTEGRATION", "SOUL"] },
+    { "emotional_state": "OKAY", "day_intention": "UNDERSTAND", "pillar": "INTEGRATION", "brick_id": 112, "alternative_pillars": ["MIND", "BODY"] },
+    { "emotional_state": "OKAY", "day_intention": "ACT", "pillar": "BODY", "brick_id": 92, "alternative_pillars": ["INTEGRATION", "MIND"] },
+
+    { "emotional_state": "GREAT", "day_intention": "FEEL", "pillar": "INTEGRATION", "brick_id": 100, "alternative_pillars": ["SOUL", "SPIRIT"] },
+    { "emotional_state": "GREAT", "day_intention": "FAITH", "pillar": "INTEGRATION", "brick_id": 99, "alternative_pillars": ["SPIRIT", "SOUL"] },
+    { "emotional_state": "GREAT", "day_intention": "UNDERSTAND", "pillar": "INTEGRATION", "brick_id": 106, "alternative_pillars": ["MIND", "BODY"] },
+    { "emotional_state": "GREAT", "day_intention": "ACT", "pillar": "BODY", "brick_id": 92, "alternative_pillars": ["INTEGRATION", "MIND"] }
   ]
 }
