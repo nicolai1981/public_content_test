@@ -1,0 +1,37 @@
+{
+  "id": 103,
+  "pillar": "INTEGRATION",
+  "name": "ABSENCE_DOES_NOT_ERASE_LOVE",
+  "title": "A ausência não apaga o amor",
+  "reviewed": false,
+  "verse": {
+    "text": "As muitas águas não podiam apagar este amor, nem os rios afogá-lo;",
+    "reference": "Cantares 8:7"
+  },
+  "welcome": {
+    "paragraphs": [
+      "Com o tempo, pode surgir um medo silencioso: e se eu esquecer? Se a voz, o jeito, as pequenas manias forem ficando mais distantes? Como se seguir em frente significasse, aos poucos, deixar o amor para trás.",
+      "Mas amor não é algo que se perde quando a presença vai embora. Ele fica gravado no que você é, nas escolhas que faz, no jeito como cuida dos outros. A ausência muda a forma do vínculo, não apaga o que foi vivido.",
+      "Cantares diz que muitas águas não podem apagar o amor. Nem o tempo, nem a distância, nem a saudade. Você pode reconstruir a vida e continuar carregando esse amor com você. Uma coisa não exclui a outra.",
+      "Honrar o que você perdeu não exige ficar parado(a). O amor pode seguir junto na construção."
+    ]
+  },
+  "reflection": {
+    "questions": [
+      "Que marcas do amor que você viveu continuam presentes em você hoje?",
+      "Você já sentiu medo de que seguir em frente significasse esquecer?",
+      "Como você gostaria de continuar honrando esse amor na nova fase da sua vida?"
+    ]
+  },
+  "exercise": {
+    "instruction": "Escreva uma lista com três coisas que você carrega consigo por causa desse amor: um hábito, um valor, um jeito de ver a vida. Escolha uma delas e pense em uma forma simples de colocá-la em prática nesta semana."
+  },
+  "breathing": {
+    "guide_text": "Ao inspirar, traga à memória o amor que permanece. Ao expirar, deixe esse amor seguir com você para o próximo passo.",
+    "pattern": {
+      "inhale": 4,
+      "hold": 2,
+      "exhale": 6
+    }
+  }
+}

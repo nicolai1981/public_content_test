@@ -1,0 +1,37 @@
+{
+  "id": 77,
+  "pillar": "BODY",
+  "name": "CREATING_A_SIMPLE_ROUTINE",
+  "title": "Criar rotina simples",
+  "reviewed": false,
+  "verse": {
+    "text": "Ensina-nos a contar os nossos dias, de tal maneira que alcancemos coração sábio.",
+    "reference": "Salmos 90:12"
+  },
+  "welcome": {
+    "paragraphs": [
+      "Depois de uma ruptura, os dias podem perder o formato. As horas se misturam, as refeições acontecem quando dá, e à noite fica a sensação de que o dia passou sem você perceber.",
+      "Rotina pode parecer algo pequeno demais diante de uma dor tão grande. Mas é justamente quando tudo está fora do lugar que alguns pontos fixos ajudam o corpo e a mente a se sentirem mais seguros.",
+      "Não se trata de montar uma agenda cheia ou de voltar a ser produtivo(a). Uma rotina simples pode ter só três âncoras: um horário para acordar, uma refeição de verdade e um momento de pausa. Pequenas marcas que dão forma ao dia.",
+      "Contar os dias com sabedoria começa por aqui: cuidar de cada um deles, um de cada vez."
+    ]
+  },
+  "reflection": {
+    "questions": [
+      "Como seus dias têm sido desde a ruptura? O que se perdeu na sua rotina?",
+      "Que pequeno hábito, se voltasse, faria diferença no seu dia?",
+      "Qual horário do dia é mais difícil para você, e o que poderia ajudar nesse momento?"
+    ]
+  },
+  "exercise": {
+    "instruction": "Escolha três âncoras para os próximos dias: um horário aproximado para acordar, uma refeição que você vai fazer com calma e uma pausa de 5 minutos. Escreva num papel e coloque em algum lugar visível. Não precisa ser perfeito, só precisa ser possível."
+  },
+  "breathing": {
+    "guide_text": "Ao inspirar, conte até quatro, como quem marca o ritmo do dia. Ao expirar, deixe o corpo encontrar esse ritmo aos poucos.",
+    "pattern": {
+      "inhale": 4,
+      "hold": 2,
+      "exhale": 6
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": 26,
+  "pillar": "MIND",
+  "name": "ONE_DAY_AT_A_TIME",
+  "title": "Um dia de cada vez",
+  "reviewed": false,
+  "verse": {
+    "text": "Não vos inquieteis, pois, pelo dia de amanhã, porque o dia de amanhã cuidará de si mesmo. Basta a cada dia o seu mal.",
+    "reference": "Mateus 6:34"
+  },
+  "welcome": {
+    "paragraphs": [
+      "Depois de uma ruptura, a mente costuma correr para o futuro. Como vai ser o Natal? E daqui a um ano? Como vou dar conta de tudo sozinho(a)? De repente, você está carregando hoje o peso de meses que ainda nem chegaram.",
+      "Jesus conhecia essa tendência. Por isso disse que basta a cada dia o seu mal. Não é um convite para ignorar o futuro, mas para não viver todas as dores dele de uma vez só.",
+      "A mente não consegue resolver amanhã o que ainda não aconteceu, mas consegue esgotar suas forças tentando. Quando você traz a atenção de volta para hoje, o peso fica do tamanho que você consegue carregar.",
+      "Por agora, a pergunta não é como vai ser a vida inteira. É só: o que eu preciso fazer hoje?"
+    ]
+  },
+  "reflection": {
+    "questions": [
+      "Que preocupação sobre o futuro tem ocupado mais espaço na sua mente?",
+      "Quanto dessa preocupação depende de algo que você pode fazer hoje?",
+      "Como seria o dia de hoje se você cuidasse só dele?"
+    ]
+  },
+  "exercise": {
+    "instruction": "Divida uma folha em duas colunas: \"Hoje\" e \"Depois\". Escreva cada preocupação que vier à mente na coluna certa. Escolha uma única coisa da coluna \"Hoje\" para fazer e deixe o resto para outro dia."
+  },
+  "breathing": {
+    "guide_text": "Ao inspirar, pense: \"só hoje\". Ao expirar, solte o amanhã por alguns instantes.",
+    "pattern": {
+      "inhale": 4,
+      "hold": 2,
+      "exhale": 6
+    }
+  }
+}

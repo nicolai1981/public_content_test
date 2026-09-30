@@ -1,0 +1,37 @@
+{
+  "id": 14,
+  "pillar": "SPIRIT",
+  "name": "FAITH_AMID_QUESTIONS",
+  "title": "Fé em meio às perguntas",
+  "reviewed": false,
+  "verse": {
+    "text": "Até quando te esquecerás de mim, SENHOR? Para sempre? Até quando esconderás de mim o teu rosto?",
+    "reference": "Salmos 13:1"
+  },
+  "welcome": {
+    "paragraphs": [
+      "Por quê? Por que comigo? Por que agora? Se essas perguntas têm ocupado sua mente, talvez você tenha medo de que elas sejam um sinal de fé fraca. Como se crer de verdade significasse nunca questionar.",
+      "Mas Davi, chamado de homem segundo o coração de Deus, escreveu um salmo inteiro de perguntas. Até quando? Para sempre? Ele não disfarçou a confusão nem fingiu uma paz que não sentia. E, mesmo assim, continuou falando com Deus.",
+      "Perguntar a Deus é uma forma de permanecer em relacionamento com ele. Quem desistiu não pergunta mais. A fé madura não é a que tem todas as respostas, é a que continua conversando mesmo sem elas.",
+      "Hoje, suas perguntas são bem-vindas aqui. Você não precisa resolvê-las para dar o próximo passo."
+    ]
+  },
+  "reflection": {
+    "questions": [
+      "Qual é a pergunta que mais tem pesado no seu coração desde a ruptura?",
+      "Você sente que pode levar suas dúvidas a Deus, ou acha que precisa escondê-las?",
+      "O que ainda sustenta sua fé, mesmo com as perguntas sem resposta?"
+    ]
+  },
+  "exercise": {
+    "instruction": "Escreva suas perguntas para Deus, uma por linha, sem filtrar nem tentar respondê-las. Ao final, escreva uma frase que comece com \"Mesmo sem entender, eu...\" e complete do jeito que for verdadeiro para você hoje."
+  },
+  "breathing": {
+    "guide_text": "Ao inspirar, traga suas perguntas com você. Ao expirar, entregue-as, sem precisar de resposta agora.",
+    "pattern": {
+      "inhale": 4,
+      "hold": 2,
+      "exhale": 6
+    }
+  }
+}

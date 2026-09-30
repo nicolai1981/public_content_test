@@ -1,0 +1,36 @@
+{
+  "id": 3,
+  "pillar": "SPIRIT",
+  "name": "GOD_HAS_NOT_WITHDRAWN",
+  "title": "Deus não se afastou",
+  "reviewed": false,
+  "verse": {
+    "text": "Perto está o Senhor dos que têm o coração quebrantado e salva os contritos de espírito.",
+    "reference": "Salmos 34:18"
+  },
+  "welcome": {
+    "paragraphs": [
+      "Talvez hoje pareça que Deus ficou longe. Que as orações batem no teto e voltam. Que o silêncio dele confirma que você foi deixado(a) sozinho(a) com essa dor. Se é isso que você sente, não precisa esconder. Sentir a distância não é falta de fé.",
+      "Mas a Bíblia faz uma afirmação corajosa: é justamente de quem está com o coração em pedaços que Deus se aproxima. Não depois que a dor passa, não quando você estiver forte de novo. Agora, no meio dos cacos.",
+      "A presença dele nem sempre vem como sensação. Às vezes vem como alguém que liga na hora certa, como força para atravessar mais uma tarde, como um fôlego que você não sabia que ainda tinha. Hoje, você não precisa sentir Deus perto para que ele esteja perto. Só precisa deixar a porta entreaberta."
+    ]
+  },
+  "reflection": {
+    "questions": [
+      "Em que momentos você sentiu Deus mais distante desde a sua perda?",
+      "Se pudesse dizer a Deus exatamente o que sente agora, sem filtro, o que diria?",
+      "Houve algum sinal pequeno de cuidado nos últimos dias que você quase deixou passar?"
+    ]
+  },
+  "exercise": {
+    "instruction": "Escreva uma oração de uma frase só, do jeito que ela sair, mesmo que seja uma pergunta ou uma reclamação. Leia em voz baixa e guarde o papel num lugar onde você vai vê-lo amanhã."
+  },
+  "breathing": {
+    "guide_text": "Ao inspirar, pense: \"Tu estás perto.\" Ao expirar, solte o peso que você não precisa carregar sozinho(a).",
+    "pattern": {
+      "inhale": 4,
+      "hold": 2,
+      "exhale": 6
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": 97,
+  "pillar": "INTEGRATION",
+  "name": "LAUGH_AND_CRY_SAME_DAY",
+  "title": "Posso rir e chorar no mesmo dia",
+  "reviewed": false,
+  "verse": {
+    "text": "tempo de chorar e tempo de rir; tempo de prantear e tempo de saltar;",
+    "reference": "Eclesiastes 3:4"
+  },
+  "welcome": {
+    "paragraphs": [
+      "Talvez você já tenha passado por isso: um momento de riso no meio de um dia difícil e, logo depois, a culpa. \"Como posso rir se ainda dói tanto?\" Como se a alegria fosse uma traição a quem você perdeu ou à dor que ainda carrega.",
+      "Eclesiastes fala de tempo de chorar e tempo de rir. Mas, na vida real, esses tempos nem sempre chegam separados. Às vezes vêm no mesmo dia, na mesma hora, na mesma lembrança.",
+      "Rir não apaga o amor nem diminui a saudade. É sinal de que a vida está voltando a ocupar espaço ao lado da dor, não no lugar dela. As duas coisas podem coexistir. Isso não é contradição: é a reconstrução acontecendo aos poucos."
+    ]
+  },
+  "reflection": {
+    "questions": [
+      "Lembra de algum momento recente em que você riu apesar da dor? Como se sentiu depois?",
+      "Existe alguma culpa que aparece quando você se sente bem?",
+      "Que lembrança do que você perdeu faz você sorrir e chorar ao mesmo tempo?"
+    ]
+  },
+  "exercise": {
+    "instruction": "Escreva uma lembrança engraçada ou leve ligada a quem ou ao que você perdeu. Leia com calma e deixe vir o que vier: riso, lágrima ou os dois. Se quiser, compartilhe essa lembrança com alguém que também sente essa falta."
+  },
+  "breathing": {
+    "guide_text": "Ao inspirar, receba o que este dia trouxe de bom. Ao expirar, acolha também o que ainda dói. Há espaço para os dois.",
+    "pattern": {
+      "inhale": 4,
+      "hold": 2,
+      "exhale": 6
+    }
+  }
+}

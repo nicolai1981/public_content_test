@@ -1,0 +1,37 @@
+{
+  "id": 50,
+  "pillar": "SOUL",
+  "name": "PERMISSION_TO_CRY",
+  "title": "Permissão para chorar",
+  "reviewed": false,
+  "verse": {
+    "text": "Jesus chorou.",
+    "reference": "João 11:35"
+  },
+  "welcome": {
+    "paragraphs": [
+      "Jesus sabia que ia ressuscitar Lázaro. Mesmo assim, diante do túmulo do amigo, ele chorou. O versículo mais curto da Bíblia carrega uma permissão enorme: chorar não é falta de fé, nem de esperança.",
+      "Muita gente aprende a engolir o choro para não preocupar os outros, para parecer forte, para não desabar. Mas lágrima contida não desaparece. Ela só procura outra saída: cansaço, irritação, um nó na garganta que não desata.",
+      "O choro é uma das formas que o corpo tem de dizer o que as palavras não alcançam. Ele não é sinal de que você está regredindo. É sinal de que o amor que você sente encontrou um caminho para sair.",
+      "Hoje você tem permissão para chorar. Não precisa de motivo novo, nem de hora certa, nem de plateia."
+    ]
+  },
+  "reflection": {
+    "questions": [
+      "Quando foi a última vez que você se permitiu chorar sem se censurar?",
+      "O que ou quem faz você sentir que precisa segurar as lágrimas?",
+      "Se as suas lágrimas pudessem falar, o que diriam hoje?"
+    ]
+  },
+  "exercise": {
+    "instruction": "Separe 10 minutos num lugar onde possa ficar sozinho(a). Pegue algo que lembre quem ou o que você perdeu, como uma foto, um objeto ou uma música, e deixe vir o que vier, sem tentar parar. Se o choro não vier, tudo bem também: apenas fique presente com o que estiver aí."
+  },
+  "breathing": {
+    "guide_text": "Se o choro vier, deixe a respiração acompanhá-lo. Inspire devagar, segure por um instante e solte o ar como quem solta um peso.",
+    "pattern": {
+      "inhale": 4,
+      "hold": 2,
+      "exhale": 6
+    }
+  }
+}

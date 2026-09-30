@@ -1,0 +1,37 @@
+{
+  "id": 62,
+  "pillar": "SOUL",
+  "name": "GRIEF_IS_NOT_LINEAR",
+  "title": "Luto não é linear",
+  "reviewed": false,
+  "verse": {
+    "text": "Por que estás abatida, ó minha alma, e por que te perturbas em mim? Espera em Deus, pois ainda o louvarei pela salvação da sua face.",
+    "reference": "Salmos 42:5"
+  },
+  "welcome": {
+    "paragraphs": [
+      "Ontem pareceu que você estava melhorando. Hoje, voltou tudo. E junto com a dor vem a sensação de ter andado para trás, como se todo o caminho feito tivesse se perdido.",
+      "O luto não segue uma linha reta. Ele vai e volta, como ondas. Uma música, uma data, um cheiro podem trazer de volta uma dor que parecia mais calma. Isso não significa que você regrediu. Significa que o amor continua aí.",
+      "O salmista também oscilava. Num verso, a alma está abatida; no seguinte, ele lembra que ainda vai louvar. E logo depois volta a se perguntar por quê. Não há vergonha nesse vai e vem.",
+      "Os dias difíceis não apagam os tijolos que você já assentou. A construção continua de pé, mesmo quando o tempo fecha."
+    ]
+  },
+  "reflection": {
+    "questions": [
+      "O que costuma trazer de volta uma onda de dor, mesmo em dias que pareciam mais leves?",
+      "Como você se trata quando sente que voltou para trás?",
+      "Que sinais de avanço você consegue ver, mesmo nos dias ruins?"
+    ]
+  },
+  "exercise": {
+    "instruction": "Desenhe uma linha representando seu caminho desde a ruptura, com altos e baixos, do jeito que você sente que foi. Marque um momento difícil e um momento em que respirou um pouco melhor. Observe que os dois fazem parte do mesmo caminho."
+  },
+  "breathing": {
+    "guide_text": "Imagine sua respiração como uma onda: ela sobe, para por um instante e desce. Assim como o luto, ela vai e volta, e você continua aqui.",
+    "pattern": {
+      "inhale": 4,
+      "hold": 2,
+      "exhale": 6
+    }
+  }
+}

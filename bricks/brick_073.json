@@ -1,0 +1,36 @@
+{
+  "id": 73,
+  "pillar": "BODY",
+  "name": "GETTING_OUT_OF_BED",
+  "title": "Levantar da cama",
+  "reviewed": false,
+  "verse": {
+    "text": "E deitou-se e dormiu debaixo de um zimbro; e eis que, então, um anjo o tocou e lhe disse: Levanta-te e come.",
+    "reference": "1 Reis 19:5"
+  },
+  "welcome": {
+    "paragraphs": [
+      "Exausto e sem vontade de continuar, Elias se deitou debaixo de uma árvore e dormiu. Deus não mandou um sermão. Mandou um anjo com pão e água, que tocou nele e disse: levanta-te e come.",
+      "Há dias em que sair da cama parece a tarefa mais difícil do mundo. O corpo pesa, o dia parece longo demais, e a pergunta \"para quê?\" fica martelando. Se hoje é um desses dias, saiba que isso não é preguiça. É o peso da dor pedindo espaço também no corpo.",
+      "O cuidado de Deus com Elias começou pelo básico: descanso, comida, um passo de cada vez. O tijolo de hoje é pequeno de propósito. Não é sobre ter um dia produtivo. É só sobre levantar."
+    ]
+  },
+  "reflection": {
+    "questions": [
+      "O que torna mais difícil levantar da cama nos seus dias pesados?",
+      "Que pequena coisa poderia deixar o começo da manhã um pouco mais leve?",
+      "Quem poderia ser, para você, o anjo com pão e água nesta semana?"
+    ]
+  },
+  "exercise": {
+    "instruction": "Levante agora, mesmo que seja só por alguns minutos. Abra uma janela, beba um copo d'água e lave o rosto. Se conseguir, coma alguma coisa simples. Depois, pode voltar a descansar: o tijolo de hoje já foi assentado."
+  },
+  "breathing": {
+    "guide_text": "Sente-se na beira da cama com os pés no chão. Ao inspirar, sinta o chão firme sob você. Ao expirar, diga para si: \"um passo de cada vez\".",
+    "pattern": {
+      "inhale": 4,
+      "hold": 2,
+      "exhale": 6
+    }
+  }
+}

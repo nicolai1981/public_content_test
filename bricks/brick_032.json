@@ -1,0 +1,37 @@
+{
+  "id": 32,
+  "pillar": "MIND",
+  "name": "ANXIETY_IS_NOT_WEAKNESS",
+  "title": "Ansiedade não é fraqueza",
+  "reviewed": false,
+  "verse": {
+    "text": "lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós.",
+    "reference": "1 Pedro 5:7"
+  },
+  "welcome": {
+    "paragraphs": [
+      "O coração dispara, o pensamento não para, o corpo parece sempre em alerta. E junto com a ansiedade vem outra voz: você deveria ser mais forte, deveria confiar mais, deveria ter mais fé.",
+      "Ansiedade não é fraqueza nem falta de fé. É a reação de uma mente e de um corpo que passaram por algo grande demais e estão tentando se proteger. Depois de uma perda, faz sentido que o mundo pareça menos seguro.",
+      "Pedro não escreveu \"não tenham ansiedade\". Escreveu \"lancem sobre ele toda a ansiedade\". O convite não é fingir que ela não existe, é não carregá-la sozinho(a). E o motivo não é uma cobrança, é cuidado: ele tem cuidado de você.",
+      "Se a ansiedade estiver atrapalhando seu sono, sua alimentação ou sua rotina, procurar ajuda profissional também é uma forma de cuidado."
+    ]
+  },
+  "reflection": {
+    "questions": [
+      "Em que momentos do dia a ansiedade costuma aparecer com mais força?",
+      "Que frases duras você tem dito a si mesmo(a) quando se sente ansioso(a)?",
+      "O que você diria a um amigo que estivesse sentindo o mesmo que você?"
+    ]
+  },
+  "exercise": {
+    "instruction": "Quando a ansiedade vier, faça o exercício 5-4-3-2-1: observe 5 coisas que você vê, 4 que pode tocar, 3 que ouve, 2 cujo cheiro sente e 1 cujo sabor percebe. Depois, anote em uma frase o que estava sentindo antes e como está agora."
+  },
+  "breathing": {
+    "guide_text": "Solte o ar mais devagar do que puxa. Ao expirar, imagine que está entregando o peso a quem tem cuidado de você.",
+    "pattern": {
+      "inhale": 4,
+      "hold": 2,
+      "exhale": 6
+    }
+  }
+}
