@@ -1,0 +1,132 @@
+{
+  "trails": [
+    {
+      "id": 1,
+      "name": "PERMISSION_TO_CRY_TRAIL",
+      "title": "Espaço para as lágrimas",
+      "start_brick_id": 50,
+      "routing": [{ "emotional_state": "AWFUL", "day_intention": "FEEL" }, { "emotional_state": "SAD", "day_intention": "FEEL" }],
+      "brick_ids": [50, 5, 49, 74, 52, 13, 64, 62, 72, 66, 70]
+    },
+    {
+      "id": 2,
+      "name": "GOD_HAS_NOT_WITHDRAWN_TRAIL",
+      "title": "Deus está perto",
+      "start_brick_id": 3,
+      "routing": [{ "emotional_state": "AWFUL", "day_intention": "FAITH" }, { "emotional_state": "SAD", "day_intention": "FAITH" }],
+      "brick_ids": [3, 17, 53, 13, 25, 5, 59, 9, 6, 18, 23]
+    },
+    {
+      "id": 3,
+      "name": "ANXIETY_IS_NOT_WEAKNESS_TRAIL",
+      "title": "Acalmando a mente",
+      "start_brick_id": 32,
+      "routing": [{ "emotional_state": "AWFUL", "day_intention": "UNDERSTAND" }],
+      "brick_ids": [32, 27, 52, 28, 16, 26, 63, 11, 38, 94, 15]
+    },
+    {
+      "id": 4,
+      "name": "GETTING_OUT_OF_BED_TRAIL",
+      "title": "De volta ao básico",
+      "start_brick_id": 73,
+      "routing": [{ "emotional_state": "AWFUL", "day_intention": "ACT" }, { "emotional_state": "SAD", "day_intention": "ACT" }],
+      "brick_ids": [73, 75, 72, 74, 84, 26, 76, 77, 79, 35, 96]
+    },
+    {
+      "id": 5,
+      "name": "REPETITIVE_THOUGHTS_TRAIL",
+      "title": "Silenciando os pensamentos",
+      "start_brick_id": 37,
+      "routing": [{ "emotional_state": "SAD", "day_intention": "UNDERSTAND" }],
+      "brick_ids": [37, 38, 52, 27, 30, 56, 12, 44, 46, 64, 45]
+    },
+    {
+      "id": 6,
+      "name": "GRIEF_IS_NOT_LINEAR_TRAIL",
+      "title": "As ondas do luto",
+      "start_brick_id": 62,
+      "routing": [{ "emotional_state": "MEH", "day_intention": "FEEL" }],
+      "brick_ids": [62, 70, 55, 46, 21, 69, 65, 68, 66, 97, 104]
+    },
+    {
+      "id": 7,
+      "name": "FAITH_AMID_QUESTIONS_TRAIL",
+      "title": "Fé que pergunta",
+      "start_brick_id": 14,
+      "routing": [{ "emotional_state": "MEH", "day_intention": "FAITH" }],
+      "brick_ids": [14, 12, 59, 13, 20, 99, 21, 23, 11, 15, 107]
+    },
+    {
+      "id": 8,
+      "name": "SHIFT_IN_PERSPECTIVE_TRAIL",
+      "title": "Um novo olhar",
+      "start_brick_id": 44,
+      "routing": [{ "emotional_state": "MEH", "day_intention": "UNDERSTAND" }],
+      "brick_ids": [44, 45, 20, 46, 43, 105, 111, 19, 101, 108, 113]
+    },
+    {
+      "id": 9,
+      "name": "CREATING_A_SIMPLE_ROUTINE_TRAIL",
+      "title": "Dando forma aos dias",
+      "start_brick_id": 77,
+      "routing": [{ "emotional_state": "MEH", "day_intention": "ACT" }],
+      "brick_ids": [77, 35, 74, 75, 87, 41, 90, 36, 94, 96, 115]
+    },
+    {
+      "id": 10,
+      "name": "LAUGH_AND_CRY_SAME_DAY_TRAIL",
+      "title": "Alegria e dor lado a lado",
+      "start_brick_id": 97,
+      "routing": [{ "emotional_state": "OKAY", "day_intention": "FEEL" }],
+      "brick_ids": [97, 69, 98, 55, 66, 6, 100, 103, 104, 67, 102]
+    },
+    {
+      "id": 11,
+      "name": "HOPE_IS_NOT_DEAD_TRAIL",
+      "title": "A esperança continua",
+      "start_brick_id": 23,
+      "routing": [{ "emotional_state": "OKAY", "day_intention": "FAITH" }],
+      "brick_ids": [23, 15, 6, 114, 68, 24, 21, 107, 67, 117, 119]
+    },
+    {
+      "id": 12,
+      "name": "NEW_MEANING_TRAIL",
+      "title": "Encontrando sentido",
+      "start_brick_id": 112,
+      "routing": [{ "emotional_state": "OKAY", "day_intention": "UNDERSTAND" }],
+      "brick_ids": [112, 111, 44, 106, 48, 89, 113, 105, 101, 108, 120]
+    },
+    {
+      "id": 13,
+      "name": "SERVING_SOMEONE_TRAIL",
+      "title": "Estender as mãos",
+      "start_brick_id": 92,
+      "routing": [{ "emotional_state": "OKAY", "day_intention": "ACT" }, { "emotional_state": "GREAT", "day_intention": "ACT" }],
+      "brick_ids": [92, 93, 85, 113, 47, 116, 90, 95, 109, 114, 115]
+    },
+    {
+      "id": 14,
+      "name": "JOY_WITHOUT_GUILT_TRAIL",
+      "title": "Espaço para a alegria",
+      "start_brick_id": 100,
+      "routing": [{ "emotional_state": "GREAT", "day_intention": "FEEL" }],
+      "brick_ids": [100, 98, 97, 67, 101, 66, 104, 22, 110, 114, 120]
+    },
+    {
+      "id": 15,
+      "name": "FAITH_WITH_QUESTIONS_TRAIL",
+      "title": "Fé que sustenta",
+      "start_brick_id": 99,
+      "routing": [{ "emotional_state": "GREAT", "day_intention": "FAITH" }],
+      "brick_ids": [99, 12, 107, 18, 102, 21, 16, 110, 116, 117, 119]
+    },
+    {
+      "id": 16,
+      "name": "GROWING_THROUGH_PAIN_TRAIL",
+      "title": "Crescer com a dor",
+      "start_brick_id": 106,
+      "routing": [{ "emotional_state": "GREAT", "day_intention": "UNDERSTAND" }],
+      "brick_ids": [106, 102, 111, 48, 108, 87, 47, 109, 113, 115, 118]
+    }
+  ]
+}
