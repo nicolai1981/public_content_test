@@ -1,6 +1,6 @@
 {
-  "type": "PILLAR",
+  "type": "CONTENT_VERSION",
   "version": "0.0.1",
   "published_date": "202610071500",
-  "body": "[{\"id\": 1, \"name\": \"SPIRIT\", \"title\": \"Espírito\"}, {\"id\": 2, \"name\": \"MIND\", \"title\": \"Mente\"}, {\"id\": 3, \"name\": \"SOUL\", \"title\": \"Alma\"}, {\"id\": 4, \"name\": \"BODY\", \"title\": \"Corpo\"}, {\"id\": 5, \"name\": \"INTEGRATION\", \"title\": \"Integração\"}]"
+  "body": "[{\"type\": \"PILLAR\", \"version\": \"0.0.1\", \"published_date\": \"202610071500\"}]"
 }
