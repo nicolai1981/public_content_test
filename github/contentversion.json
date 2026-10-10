@@ -1,6 +1,6 @@
 {
-  "type": "CONTENT_VERSION",
-  "version": "0.0.1",
-  "published_date": "202610071500",
-  "body": "[{\"type\": \"PILLAR\", \"version\": \"0.0.1\", \"published_date\": \"202610071500\"}]"
+  "type":  "CONTENT_VERSION",
+  "version":  "0.0.1",
+  "published_date":  "202610081500",
+  "body":  "[{\"type\":\"PILLAR\",\"version\":\"0.0.1\",\"published_date\":\"202610071500\"},{\"type\":\"CHECKIN_QUESTION\",\"version\":\"0.0.1\",\"published_date\":\"202610081500\"}]"
 }
