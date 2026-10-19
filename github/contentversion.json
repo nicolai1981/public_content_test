@@ -1,6 +1,6 @@
 {
   "type":  "CONTENT_VERSION",
-  "version":  "0.0.1",
-  "published_date":  "202610081500",
-  "body":  "[{\"type\":\"PILLAR\",\"version\":\"0.0.1\",\"published_date\":\"202610071500\"},{\"type\":\"CHECKIN_QUESTION\",\"version\":\"0.0.1\",\"published_date\":\"202610081500\"}]"
+  "version":  "0.0.2",
+  "published_date":  "202610191500",
+  "body":  "[{\"type\":\"PILLAR\",\"version\":\"0.0.1\",\"published_date\":\"202610071500\"},{\"type\":\"CHECKIN_QUESTION\",\"version\":\"0.0.1\",\"published_date\":\"202610081500\"},{\"type\":\"CHECKIN_ROUTE\",\"version\":\"0.0.1\",\"published_date\":\"202610191500\"},{\"type\":\"BRICK_PREVIEW\",\"version\":\"0.0.1\",\"published_date\":\"202610191500\"},{\"type\":\"TRACK\",\"version\":\"0.0.1\",\"published_date\":\"202610191500\"}]"
 }
